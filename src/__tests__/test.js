@@ -1,4 +1,4 @@
-import checkHealth from '../app.js';
+import checkHealth from '../js/app.js';
 
 test('good health checking', () => {
   const characters = { name: 'Маг', health: 90 };

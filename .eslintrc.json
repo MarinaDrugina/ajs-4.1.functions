@@ -15,7 +15,8 @@
             "error", 
             "ignorePackages", 
             { "": "never" } 
-        ]
+        ],
+        "no-unused-vars": "off"
    },
    "parserOptions": {
     "ecmaversion": 2018,
